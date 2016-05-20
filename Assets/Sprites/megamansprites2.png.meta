@@ -1,0 +1,2859 @@
+fileFormatVersion: 2
+guid: a73385e9a636a4442a4c0cada3355c4b
+timeCreated: 1456169033
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: megamansprites2_0
+    21300002: megamansprites2_1
+    21300004: megamansprites2_2
+    21300006: megamansprites2_3
+    21300008: megamansprites2_4
+    21300010: megamansprites2_5
+    21300012: megamansprites2_6
+    21300014: megamansprites2_7
+    21300016: megamansprites2_8
+    21300018: megamansprites2_9
+    21300020: megamansprites2_10
+    21300022: megamansprites2_11
+    21300024: megamansprites2_12
+    21300026: megamansprites2_13
+    21300028: megamansprites2_14
+    21300030: megamansprites2_15
+    21300032: megamansprites2_16
+    21300034: megamansprites2_17
+    21300036: megamansprites2_18
+    21300038: megamansprites2_19
+    21300040: megamansprites2_20
+    21300042: megamansprites2_21
+    21300044: megamansprites2_22
+    21300046: megamansprites2_23
+    21300048: megamansprites2_24
+    21300050: megamansprites2_25
+    21300052: megamansprites2_26
+    21300054: megamansprites2_27
+    21300056: megamansprites2_28
+    21300058: megamansprites2_29
+    21300060: megamansprites2_30
+    21300062: megamansprites2_31
+    21300064: megamansprites2_32
+    21300066: megamansprites2_33
+    21300068: megamansprites2_34
+    21300070: megamansprites2_35
+    21300072: megamansprites2_36
+    21300074: megamansprites2_37
+    21300076: megamansprites2_38
+    21300078: megamansprites2_39
+    21300080: megamansprites2_40
+    21300082: megamansprites2_41
+    21300084: megamansprites2_42
+    21300086: megamansprites2_43
+    21300088: megamansprites2_44
+    21300090: megamansprites2_45
+    21300092: megamansprites2_46
+    21300094: megamansprites2_47
+    21300096: megamansprites2_48
+    21300098: megamansprites2_49
+    21300100: megamansprites2_50
+    21300102: megamansprites2_51
+    21300104: megamansprites2_52
+    21300106: megamansprites2_53
+    21300108: megamansprites2_54
+    21300110: megamansprites2_55
+    21300112: megamansprites2_56
+    21300114: megamansprites2_57
+    21300116: megamansprites2_58
+    21300118: megamansprites2_59
+    21300120: megamansprites2_60
+    21300122: megamansprites2_61
+    21300124: megamansprites2_62
+    21300126: megamansprites2_63
+    21300128: megamansprites2_64
+    21300130: megamansprites2_65
+    21300132: megamansprites2_66
+    21300134: megamansprites2_67
+    21300136: megamansprites2_68
+    21300138: megamansprites2_69
+    21300140: megamansprites2_70
+    21300142: megamansprites2_71
+    21300144: megamansprites2_72
+    21300146: megamansprites2_73
+    21300148: megamansprites2_74
+    21300150: megamansprites2_75
+    21300152: megamansprites2_76
+    21300154: megamansprites2_77
+    21300156: megamansprites2_78
+    21300158: megamansprites2_79
+    21300160: megamansprites2_80
+    21300162: megamansprites2_81
+    21300164: megamansprites2_82
+    21300166: megamansprites2_83
+    21300168: megamansprites2_84
+    21300170: megamansprites2_85
+    21300172: megamansprites2_86
+    21300174: megamansprites2_87
+    21300176: megamansprites2_88
+    21300178: megamansprites2_89
+    21300180: megamansprites2_90
+    21300182: megamansprites2_91
+    21300184: megamansprites2_92
+    21300186: megamansprites2_93
+    21300188: megamansprites2_94
+    21300190: megamansprites2_95
+    21300192: megamansprites2_96
+    21300194: megamansprites2_97
+    21300196: megamansprites2_98
+    21300198: megamansprites2_99
+    21300200: megamansprites2_100
+    21300202: megamansprites2_101
+    21300204: megamansprites2_102
+    21300206: megamansprites2_103
+    21300208: megamansprites2_104
+    21300210: megamansprites2_105
+    21300212: megamansprites2_106
+    21300214: megamansprites2_107
+    21300216: megamansprites2_108
+    21300218: megamansprites2_109
+    21300220: megamansprites2_110
+    21300222: megamansprites2_111
+    21300224: megamansprites2_112
+    21300226: megamansprites2_113
+    21300228: megamansprites2_114
+    21300230: megamansprites2_115
+    21300232: megamansprites2_116
+    21300234: megamansprites2_117
+    21300236: megamansprites2_118
+    21300238: megamansprites2_119
+    21300240: megamansprites2_120
+    21300242: megamansprites2_121
+    21300244: megamansprites2_122
+    21300246: megamansprites2_123
+    21300248: megamansprites2_124
+    21300250: megamansprites2_125
+    21300252: megamansprites2_126
+    21300254: megamansprites2_127
+    21300256: megamansprites2_128
+    21300258: megamansprites2_129
+    21300260: megamansprites2_130
+    21300262: megamansprites2_131
+    21300264: megamansprites2_132
+    21300266: megamansprites2_133
+    21300268: megamansprites2_134
+    21300270: megamansprites2_135
+    21300272: megamansprites2_136
+    21300274: megamansprites2_137
+    21300276: megamansprites2_138
+    21300278: megamansprites2_139
+    21300280: megamansprites2_140
+    21300282: megamansprites2_141
+    21300284: megamansprites2_142
+    21300286: megamansprites2_143
+    21300288: megamansprites2_144
+    21300290: megamansprites2_145
+    21300292: megamansprites2_146
+    21300294: megamansprites2_147
+    21300296: megamansprites2_148
+    21300298: megamansprites2_149
+    21300300: megamansprites2_150
+    21300302: megamansprites2_151
+    21300304: megamansprites2_152
+    21300306: megamansprites2_153
+    21300308: megamansprites2_154
+    21300310: megamansprites2_155
+    21300312: megamansprites2_156
+    21300314: megamansprites2_157
+    21300316: megamansprites2_158
+    21300318: megamansprites2_159
+    21300320: megamansprites2_160
+    21300322: megamansprites2_161
+    21300324: megamansprites2_162
+    21300326: megamansprites2_163
+    21300328: megamansprites2_164
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: megamansprites2_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1116
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1116
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1116
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1116
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1116
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1116
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 17}
+        - {x: -17, y: 3}
+        - {x: -17, y: -17}
+        - {x: 17, y: -17}
+        - {x: 17, y: 15}
+        - {x: 15, y: 17}
+    - name: megamansprites2_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1116
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 20}
+        - {x: -6, y: 19}
+        - {x: -15, y: -2}
+        - {x: -17, y: -12}
+        - {x: -17, y: -20}
+        - {x: 17, y: -20}
+        - {x: 17, y: 17}
+        - {x: 16, y: 20}
+    - name: megamansprites2_7
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1116
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 20}
+        - {x: -6, y: 19}
+        - {x: -15, y: -2}
+        - {x: -17, y: -12}
+        - {x: -17, y: -20}
+        - {x: 17, y: -20}
+        - {x: 17, y: 17}
+        - {x: 16, y: 20}
+    - name: megamansprites2_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1065
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 20}
+        - {x: -6, y: 19}
+        - {x: -15, y: -2}
+        - {x: -17, y: -12}
+        - {x: -17, y: -20}
+        - {x: 17, y: -20}
+        - {x: 17, y: 17}
+        - {x: 16, y: 20}
+    - name: megamansprites2_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1065
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20}
+        - {x: -17, y: -1}
+        - {x: -17, y: -20}
+        - {x: 17, y: -20}
+        - {x: 17, y: 13}
+        - {x: 14, y: 20}
+    - name: megamansprites2_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1065
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 20}
+        - {x: -6, y: 19}
+        - {x: -15, y: -2}
+        - {x: -17, y: -12}
+        - {x: -17, y: -20}
+        - {x: 17, y: -20}
+        - {x: 17, y: 17}
+        - {x: 16, y: 20}
+    - name: megamansprites2_11
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1065
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 20}
+        - {x: -6, y: 19}
+        - {x: -15, y: -2}
+        - {x: -17, y: -12}
+        - {x: -17, y: -20}
+        - {x: 17, y: -20}
+        - {x: 17, y: 17}
+        - {x: 16, y: 20}
+    - name: megamansprites2_12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1065
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 20}
+        - {x: -17, y: 0}
+        - {x: -17, y: -20}
+        - {x: 17, y: -20}
+        - {x: 17, y: 20}
+    - name: megamansprites2_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1065
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 20}
+        - {x: -6, y: 19}
+        - {x: -15, y: -2}
+        - {x: -17, y: -12}
+        - {x: -17, y: -20}
+        - {x: 17, y: -20}
+        - {x: 17, y: 17}
+        - {x: 16, y: 20}
+    - name: megamansprites2_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1022
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1022
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 18.5}
+        - {x: -16.5, y: -3.5}
+        - {x: -16.5, y: -18.5}
+        - {x: 16.5, y: -18.5}
+        - {x: 16.5, y: 18.5}
+    - name: megamansprites2_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1022
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 18.5}
+        - {x: -22, y: -1.5}
+        - {x: -22, y: -13.5}
+        - {x: 6, y: -18.5}
+        - {x: 18, y: -18.5}
+        - {x: 22, y: -13.5}
+        - {x: 22, y: 16.5}
+        - {x: 17, y: 18.5}
+    - name: megamansprites2_17
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1023
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 18}
+        - {x: -17, y: -5}
+        - {x: -17, y: -15}
+        - {x: -9, y: -16}
+        - {x: -6, y: -18}
+        - {x: 15, y: -18}
+        - {x: 17, y: -17}
+        - {x: 17, y: 16}
+        - {x: 15, y: 18}
+    - name: megamansprites2_18
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1022
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_19
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1022
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_20
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1022
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_21
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1022
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 17.5}
+        - {x: -18.5, y: 8.5}
+        - {x: -18.5, y: -17.5}
+        - {x: 18.5, y: -17.5}
+        - {x: 18.5, y: 17.5}
+    - name: megamansprites2_22
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1022
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_23
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1022
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 970
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 18.5}
+        - {x: -11, y: 17.5}
+        - {x: -18, y: -7.5}
+        - {x: -18, y: -18.5}
+        - {x: 14, y: -18.5}
+        - {x: 18, y: -17.5}
+        - {x: 18, y: 9.5}
+        - {x: 10, y: 18.5}
+    - name: megamansprites2_25
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 970
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18.5}
+        - {x: -21, y: -4.5}
+        - {x: -21, y: -18.5}
+        - {x: 11, y: -18.5}
+        - {x: 21, y: -3.5}
+        - {x: 21, y: 13.5}
+        - {x: 14, y: 18.5}
+    - name: megamansprites2_26
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 970
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 18.5}
+        - {x: -5.5, y: 17.5}
+        - {x: -23.5, y: 0.5}
+        - {x: -23.5, y: -13.5}
+        - {x: -3.5, y: -18.5}
+        - {x: 17.5, y: -18.5}
+        - {x: 23.5, y: -16.5}
+        - {x: 23.5, y: 11.5}
+        - {x: 16.5, y: 18.5}
+    - name: megamansprites2_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 970
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 18}
+        - {x: -3, y: 18}
+        - {x: -21, y: -4}
+        - {x: -21, y: -15}
+        - {x: -13, y: -16}
+        - {x: -10, y: -18}
+        - {x: 11, y: -18}
+        - {x: 17, y: -16}
+        - {x: 14, y: -10}
+        - {x: 21, y: -4}
+        - {x: 21, y: 10}
+    - name: megamansprites2_28
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 970
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 18.5}
+        - {x: -18.5, y: 15.5}
+        - {x: -18.5, y: -18.5}
+        - {x: 10.5, y: -18.5}
+        - {x: 18.5, y: -5.5}
+        - {x: 18.5, y: 14.5}
+        - {x: 14.5, y: 18.5}
+    - name: megamansprites2_29
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 970
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 17.5}
+        - {x: -17.5, y: 4.5}
+        - {x: -17.5, y: -17.5}
+        - {x: 15.5, y: -17.5}
+        - {x: 17.5, y: -11.5}
+        - {x: 17.5, y: 17.5}
+    - name: megamansprites2_30
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 970
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 18.5}
+        - {x: -18.5, y: 9.5}
+        - {x: -18.5, y: -18.5}
+        - {x: 14.5, y: -18.5}
+        - {x: 18.5, y: -11.5}
+        - {x: 18.5, y: 18.5}
+    - name: megamansprites2_31
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 970
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 17.5}
+        - {x: -21.5, y: 8.5}
+        - {x: -21.5, y: -17.5}
+        - {x: 17.5, y: -17.5}
+        - {x: 21.5, y: -10.5}
+        - {x: 21.5, y: 13.5}
+        - {x: 12.5, y: 17.5}
+    - name: megamansprites2_32
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 970
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 18.5}
+        - {x: -5.5, y: 18.5}
+        - {x: -19.5, y: 7.5}
+        - {x: -19.5, y: -18.5}
+        - {x: 10.5, y: -18.5}
+        - {x: 13.5, y: -17.5}
+        - {x: 19.5, y: -8.5}
+        - {x: 19.5, y: 11.5}
+    - name: megamansprites2_33
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 970
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17.5}
+        - {x: -18, y: 6.5}
+        - {x: -18, y: -16.5}
+        - {x: -17, y: -17.5}
+        - {x: 4, y: -17.5}
+        - {x: 18, y: -1.5}
+        - {x: 18, y: 6.5}
+        - {x: 9, y: 17.5}
+    - name: megamansprites2_34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 908
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_35
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 908
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_36
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 908
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_37
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 908
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_38
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 908
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 908
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_40
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 908
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_41
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 908
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_42
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 908
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_43
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 908
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 840
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 18.5}
+        - {x: -11, y: 17.5}
+        - {x: -18, y: -7.5}
+        - {x: -18, y: -18.5}
+        - {x: 14, y: -18.5}
+        - {x: 18, y: -17.5}
+        - {x: 18, y: 9.5}
+        - {x: 10, y: 18.5}
+    - name: megamansprites2_45
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 840
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 24}
+        - {x: -20, y: 22}
+        - {x: -20, y: -22}
+        - {x: -18, y: -24}
+        - {x: -3, y: -24}
+        - {x: 5, y: -20}
+        - {x: 20, y: -3}
+        - {x: 20, y: 21}
+        - {x: 11, y: 24}
+    - name: megamansprites2_46
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 840
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 25.5}
+        - {x: -19, y: 25.5}
+        - {x: -19, y: -25.5}
+        - {x: 3, y: -25.5}
+        - {x: 19, y: -6.5}
+        - {x: 19, y: 22.5}
+    - name: megamansprites2_47
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 840
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 27}
+        - {x: -19.5, y: -27}
+        - {x: 10.5, y: -27}
+        - {x: 17.5, y: -24}
+        - {x: 19.5, y: -11}
+        - {x: 19.5, y: 19}
+        - {x: 9.5, y: 27}
+    - name: megamansprites2_48
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 840
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 26.5}
+        - {x: -16.5, y: 26.5}
+        - {x: -19.5, y: 24.5}
+        - {x: -19.5, y: -2.5}
+        - {x: -17.5, y: -23.5}
+        - {x: -15.5, y: -26.5}
+        - {x: -2.5, y: -26.5}
+        - {x: -0.5, y: -25.5}
+        - {x: 14.5, y: -11.5}
+        - {x: 19.5, y: 1.5}
+        - {x: 19.5, y: 21.5}
+    - name: megamansprites2_49
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 840
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 27}
+        - {x: -19.5, y: -27}
+        - {x: 10.5, y: -27}
+        - {x: 17.5, y: -24}
+        - {x: 19.5, y: -11}
+        - {x: 19.5, y: 19}
+        - {x: 9.5, y: 27}
+    - name: megamansprites2_50
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 840
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 25.5}
+        - {x: -19, y: 25.5}
+        - {x: -19, y: -25.5}
+        - {x: 3, y: -25.5}
+        - {x: 19, y: -6.5}
+        - {x: 19, y: 22.5}
+    - name: megamansprites2_51
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 840
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 24}
+        - {x: -20, y: 22}
+        - {x: -20, y: -22}
+        - {x: -18, y: -24}
+        - {x: -3, y: -24}
+        - {x: 5, y: -20}
+        - {x: 20, y: -3}
+        - {x: 20, y: 21}
+        - {x: 11, y: 24}
+    - name: megamansprites2_52
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 840
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 20}
+        - {x: -8, y: 20}
+        - {x: -19, y: 12}
+        - {x: -19, y: -20}
+        - {x: 4, y: -20}
+        - {x: 19, y: -7}
+        - {x: 19, y: 13}
+        - {x: 18, y: 14}
+    - name: megamansprites2_53
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 840
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 18.5}
+        - {x: -11, y: 17.5}
+        - {x: -18, y: -7.5}
+        - {x: -18, y: -18.5}
+        - {x: 14, y: -18.5}
+        - {x: 18, y: -17.5}
+        - {x: 18, y: 9.5}
+        - {x: 10, y: 18.5}
+    - name: megamansprites2_54
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 785
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_55
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 785
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_56
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 788
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_57
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 788
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_58
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 783
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_59
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 795
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_60
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 813
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_61
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 784
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_62
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 785
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_63
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 784
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_64
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 736
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -19}
+        - {x: 15.5, y: -19}
+        - {x: 16.5, y: -15}
+        - {x: 11.5, y: -8}
+        - {x: 7.5, y: -4}
+        - {x: 19.5, y: -4}
+        - {x: 22.5, y: -1}
+        - {x: 22.5, y: 6}
+        - {x: 10.5, y: 19}
+        - {x: -7.5, y: 19}
+        - {x: -22.5, y: -4}
+        - {x: -22.5, y: -19}
+        - {x: -5.5, y: -19}
+        - {x: -3.5, y: -14}
+        - {x: -3.5, y: -11}
+        - {x: -3.5, y: -18}
+    - name: megamansprites2_65
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 736
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -19}
+        - {x: 15, y: -19}
+        - {x: 16, y: -15}
+        - {x: 11, y: -8}
+        - {x: 7, y: -4}
+        - {x: 17, y: -4}
+        - {x: 23, y: 0}
+        - {x: 23, y: 12}
+        - {x: 10, y: 19}
+        - {x: -10, y: 19}
+        - {x: -23, y: -8}
+        - {x: -23, y: -19}
+        - {x: -6, y: -19}
+        - {x: -4, y: -14}
+        - {x: -4, y: -11}
+        - {x: -4, y: -18}
+    - name: megamansprites2_66
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 736
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -19}
+        - {x: 17.5, y: -19}
+        - {x: 23.5, y: -5}
+        - {x: 23.5, y: 11}
+        - {x: 13.5, y: 19}
+        - {x: -10.5, y: 19}
+        - {x: -23.5, y: -6}
+        - {x: -23.5, y: -19}
+        - {x: -6.5, y: -19}
+        - {x: -4.5, y: -14}
+        - {x: -4.5, y: -11}
+        - {x: -4.5, y: -18}
+    - name: megamansprites2_67
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 736
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -19}
+        - {x: 15.5, y: -19}
+        - {x: 16.5, y: -15}
+        - {x: 11.5, y: -8}
+        - {x: 7.5, y: -4}
+        - {x: 19.5, y: -4}
+        - {x: 22.5, y: -1}
+        - {x: 22.5, y: 6}
+        - {x: 10.5, y: 19}
+        - {x: -7.5, y: 19}
+        - {x: -22.5, y: -4}
+        - {x: -22.5, y: -19}
+        - {x: -5.5, y: -19}
+        - {x: -3.5, y: -14}
+        - {x: -3.5, y: -11}
+        - {x: -3.5, y: -18}
+    - name: megamansprites2_68
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 688
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -19}
+        - {x: 15.5, y: -19}
+        - {x: 16.5, y: -15}
+        - {x: 11.5, y: -8}
+        - {x: 7.5, y: -4}
+        - {x: 19.5, y: -4}
+        - {x: 22.5, y: -1}
+        - {x: 22.5, y: 6}
+        - {x: 10.5, y: 19}
+        - {x: -7.5, y: 19}
+        - {x: -22.5, y: -4}
+        - {x: -22.5, y: -19}
+        - {x: -5.5, y: -19}
+        - {x: -3.5, y: -14}
+        - {x: -3.5, y: -11}
+        - {x: -3.5, y: -18}
+    - name: megamansprites2_69
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 688
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -19}
+        - {x: 15.5, y: -19}
+        - {x: 16.5, y: -15}
+        - {x: 11.5, y: -8}
+        - {x: 7.5, y: -4}
+        - {x: 19.5, y: -4}
+        - {x: 22.5, y: -1}
+        - {x: 22.5, y: 6}
+        - {x: 10.5, y: 19}
+        - {x: -7.5, y: 19}
+        - {x: -22.5, y: -4}
+        - {x: -22.5, y: -19}
+        - {x: -5.5, y: -19}
+        - {x: -3.5, y: -14}
+        - {x: -3.5, y: -11}
+        - {x: -3.5, y: -18}
+    - name: megamansprites2_70
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 688
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -19}
+        - {x: 15.5, y: -19}
+        - {x: 16.5, y: -15}
+        - {x: 11.5, y: -8}
+        - {x: 7.5, y: -4}
+        - {x: 19.5, y: -4}
+        - {x: 22.5, y: -1}
+        - {x: 22.5, y: 6}
+        - {x: 10.5, y: 19}
+        - {x: -7.5, y: 19}
+        - {x: -22.5, y: -4}
+        - {x: -22.5, y: -19}
+        - {x: -5.5, y: -19}
+        - {x: -3.5, y: -14}
+        - {x: -3.5, y: -11}
+        - {x: -3.5, y: -18}
+    - name: megamansprites2_71
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 688
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -19}
+        - {x: 15.5, y: -19}
+        - {x: 16.5, y: -15}
+        - {x: 11.5, y: -8}
+        - {x: 7.5, y: -4}
+        - {x: 19.5, y: -4}
+        - {x: 22.5, y: -1}
+        - {x: 22.5, y: 6}
+        - {x: 10.5, y: 19}
+        - {x: -7.5, y: 19}
+        - {x: -22.5, y: -4}
+        - {x: -22.5, y: -19}
+        - {x: -5.5, y: -19}
+        - {x: -3.5, y: -14}
+        - {x: -3.5, y: -11}
+        - {x: -3.5, y: -18}
+    - name: megamansprites2_72
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 688
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 19.5}
+        - {x: -22.5, y: 6.5}
+        - {x: -22.5, y: -19.5}
+        - {x: 21.5, y: -19.5}
+        - {x: 22.5, y: -17.5}
+        - {x: 22.5, y: 15.5}
+        - {x: 15.5, y: 19.5}
+    - name: megamansprites2_73
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 688
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19.5}
+        - {x: -20, y: 13.5}
+        - {x: -20, y: -19.5}
+        - {x: 17, y: -19.5}
+        - {x: 20, y: -8.5}
+        - {x: 20, y: 14.5}
+        - {x: 16, y: 19.5}
+    - name: megamansprites2_74
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 688
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 19}
+        - {x: -17.5, y: 5}
+        - {x: -18.5, y: -3}
+        - {x: -18.5, y: -19}
+        - {x: 18.5, y: -19}
+        - {x: 18.5, y: 17}
+        - {x: 17.5, y: 19}
+    - name: megamansprites2_75
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 688
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 19}
+        - {x: -16.5, y: 5}
+        - {x: -18.5, y: -8}
+        - {x: -18.5, y: -19}
+        - {x: 18.5, y: -19}
+        - {x: 18.5, y: 19}
+    - name: megamansprites2_76
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 635
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -17, y: 1}
+        - {x: -17, y: -19}
+        - {x: 17, y: -19}
+        - {x: 17, y: 13}
+        - {x: 15, y: 19}
+    - name: megamansprites2_77
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 635
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 5.5}
+        - {x: 20, y: 9.5}
+        - {x: 11, y: 19.5}
+        - {x: -6, y: 19.5}
+        - {x: -22, y: -6.5}
+        - {x: -22, y: -19.5}
+        - {x: 16, y: -19.5}
+        - {x: 16, y: -16.5}
+        - {x: 22, y: -7.5}
+    - name: megamansprites2_78
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 635
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 19.5}
+        - {x: -9, y: 19.5}
+        - {x: -23, y: -4.5}
+        - {x: -23, y: -19.5}
+        - {x: 17, y: -19.5}
+        - {x: 23, y: -5.5}
+        - {x: 23, y: 10.5}
+    - name: megamansprites2_79
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 636
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 19.5}
+        - {x: -6, y: 19.5}
+        - {x: -21, y: -6.5}
+        - {x: -21, y: -19.5}
+        - {x: 19, y: -19.5}
+        - {x: 21, y: -15.5}
+        - {x: 21, y: 11.5}
+    - name: megamansprites2_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 585
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: -19.5}
+        - {x: 20.5, y: -19.5}
+        - {x: 20.5, y: -1.5}
+        - {x: 15.5, y: 19.5}
+        - {x: -10.5, y: 19.5}
+        - {x: -20.5, y: 10.5}
+        - {x: -20.5, y: 3.5}
+        - {x: -18.5, y: -0.5}
+        - {x: -16.5, y: -19.5}
+        - {x: 2.5, y: -19.5}
+        - {x: 2.5, y: -15.5}
+        - {x: 1.5, y: -10.5}
+        - {x: 1.5, y: -13.5}
+    - name: megamansprites2_81
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 585
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19.5}
+        - {x: -13, y: 15.5}
+        - {x: -16, y: -1.5}
+        - {x: -17, y: -8.5}
+        - {x: -17, y: -19.5}
+        - {x: 17, y: -19.5}
+        - {x: 17, y: 16.5}
+        - {x: 16, y: 19.5}
+    - name: megamansprites2_82
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 585
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 19.5}
+        - {x: -21.5, y: -2.5}
+        - {x: -21.5, y: -19.5}
+        - {x: 21.5, y: -19.5}
+        - {x: 21.5, y: 15.5}
+        - {x: 12.5, y: 19.5}
+    - name: megamansprites2_83
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 585
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 19.5}
+        - {x: -4, y: 19.5}
+        - {x: -19, y: -4.5}
+        - {x: -19, y: -19.5}
+        - {x: 19, y: -19.5}
+        - {x: 19, y: 12.5}
+    - name: megamansprites2_84
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 585
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 19}
+        - {x: -8.5, y: 19}
+        - {x: -16.5, y: 5}
+        - {x: -18.5, y: -8}
+        - {x: -18.5, y: -19}
+        - {x: 18.5, y: -19}
+        - {x: 18.5, y: -3}
+        - {x: 16.5, y: 18}
+    - name: megamansprites2_85
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 585
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_86
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 585
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -19}
+        - {x: 16, y: -19}
+        - {x: 17, y: -15}
+        - {x: 22, y: -6}
+        - {x: 22, y: 19}
+        - {x: -22, y: 19}
+        - {x: -22, y: -19}
+        - {x: -5, y: -19}
+        - {x: -3, y: -14}
+        - {x: -3, y: -11}
+        - {x: -3, y: -18}
+    - name: megamansprites2_87
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 585
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -18.5}
+        - {x: 17, y: -18.5}
+        - {x: 22, y: -14.5}
+        - {x: 22, y: 18.5}
+        - {x: -10, y: 18.5}
+        - {x: -22, y: 15.5}
+        - {x: -22, y: 3.5}
+        - {x: -17, y: 0.5}
+        - {x: -14, y: -2.5}
+        - {x: -22, y: -12.5}
+        - {x: -22, y: -18.5}
+        - {x: -5, y: -18.5}
+        - {x: -3, y: -13.5}
+        - {x: -3, y: -10.5}
+        - {x: -3, y: -17.5}
+    - name: megamansprites2_88
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 523
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_89
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 523
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_90
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 523
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 24.5}
+        - {x: -15.5, y: 18.5}
+        - {x: -16.5, y: 8.5}
+        - {x: -16.5, y: -24.5}
+        - {x: 1.5, y: -24.5}
+        - {x: 16.5, y: -7.5}
+        - {x: 16.5, y: 14.5}
+        - {x: 5.5, y: 24.5}
+    - name: megamansprites2_91
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 523
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_92
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 523
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_93
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 523
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24.5}
+        - {x: -21, y: 21.5}
+        - {x: -21, y: -18.5}
+        - {x: -20, y: -24.5}
+        - {x: 4, y: -24.5}
+        - {x: 21, y: -9.5}
+        - {x: 21, y: 20.5}
+        - {x: 17, y: 24.5}
+    - name: megamansprites2_94
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 523
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24}
+        - {x: -21, y: 21}
+        - {x: -21, y: -6}
+        - {x: -17, y: -24}
+        - {x: 16, y: -24}
+        - {x: 21, y: -13}
+        - {x: 21, y: 22}
+        - {x: 18, y: 24}
+    - name: megamansprites2_95
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 462
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 26.5}
+        - {x: -7, y: 25.5}
+        - {x: -17, y: 20.5}
+        - {x: -17, y: -26.5}
+        - {x: 11, y: -26.5}
+        - {x: 17, y: -23.5}
+        - {x: 17, y: 22.5}
+        - {x: 10, y: 26.5}
+    - name: megamansprites2_96
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 462
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_97
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 462
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -0.5}
+        - {x: 16, y: 17.5}
+        - {x: 9, y: 26.5}
+        - {x: -16, y: 26.5}
+        - {x: -16, y: -26.5}
+        - {x: -6, y: -26.5}
+        - {x: -3, y: -22.5}
+        - {x: 7, y: -17.5}
+        - {x: 10, y: -11.5}
+    - name: megamansprites2_98
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 462
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_99
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 462
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_100
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 462
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 3.5}
+        - {x: 14, y: 3.5}
+        - {x: 20, y: 6.5}
+        - {x: 20, y: 21.5}
+        - {x: 8, y: 24.5}
+        - {x: -14, y: 24.5}
+        - {x: -19, y: 22.5}
+        - {x: -20, y: 19.5}
+        - {x: -20, y: -17.5}
+        - {x: -13, y: -24.5}
+        - {x: 14, y: -24.5}
+        - {x: 17, y: -17.5}
+        - {x: 16, y: 2.5}
+        - {x: 10, y: 3.5}
+    - name: megamansprites2_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 462
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24}
+        - {x: -19, y: 22}
+        - {x: -20, y: 19}
+        - {x: -20, y: 5}
+        - {x: -16, y: 3}
+        - {x: -13, y: -24}
+        - {x: 20, y: -24}
+        - {x: 20, y: 24}
+    - name: megamansprites2_102
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 400
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 19}
+        - {x: -8.5, y: 19}
+        - {x: -16.5, y: 5}
+        - {x: -18.5, y: -8}
+        - {x: -18.5, y: -19}
+        - {x: 18.5, y: -19}
+        - {x: 18.5, y: -3}
+        - {x: 16.5, y: 18}
+    - name: megamansprites2_103
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 400
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: -24.5}
+        - {x: 19.5, y: -24.5}
+        - {x: 19.5, y: 19.5}
+        - {x: 17.5, y: 24.5}
+        - {x: -15.5, y: 24.5}
+        - {x: -19.5, y: 18.5}
+        - {x: -19.5, y: -24.5}
+        - {x: -2.5, y: -24.5}
+        - {x: -0.5, y: -19.5}
+        - {x: -0.5, y: -16.5}
+        - {x: -0.5, y: -23.5}
+    - name: megamansprites2_104
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 400
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -17, y: 1}
+        - {x: -17, y: -19}
+        - {x: 17, y: -19}
+        - {x: 17, y: 13}
+        - {x: 15, y: 19}
+    - name: megamansprites2_105
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 400
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 19}
+        - {x: -8.5, y: 19}
+        - {x: -16.5, y: 5}
+        - {x: -18.5, y: -8}
+        - {x: -18.5, y: -19}
+        - {x: 18.5, y: -19}
+        - {x: 18.5, y: -3}
+        - {x: 16.5, y: 18}
+    - name: megamansprites2_106
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 400
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 19.5}
+        - {x: -21.5, y: -2.5}
+        - {x: -21.5, y: -19.5}
+        - {x: 21.5, y: -19.5}
+        - {x: 21.5, y: 15.5}
+        - {x: 12.5, y: 19.5}
+    - name: megamansprites2_107
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 400
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: -19.5}
+        - {x: 20.5, y: -19.5}
+        - {x: 20.5, y: -1.5}
+        - {x: 15.5, y: 19.5}
+        - {x: -10.5, y: 19.5}
+        - {x: -20.5, y: 10.5}
+        - {x: -20.5, y: 3.5}
+        - {x: -18.5, y: -0.5}
+        - {x: -16.5, y: -19.5}
+        - {x: 2.5, y: -19.5}
+        - {x: 2.5, y: -15.5}
+        - {x: 1.5, y: -10.5}
+        - {x: 1.5, y: -13.5}
+    - name: megamansprites2_108
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 342
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -3.5}
+        - {x: -16, y: -9.5}
+        - {x: -16, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 16, y: -4.5}
+        - {x: 13, y: 21.5}
+        - {x: -7, y: 21.5}
+        - {x: -11, y: 14.5}
+    - name: megamansprites2_109
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 335
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 29}
+        - {x: -24, y: -29}
+        - {x: 22, y: -29}
+        - {x: 24, y: -22}
+        - {x: 24, y: 27}
+        - {x: 23, y: 29}
+    - name: megamansprites2_110
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 344
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 24}
+        - {x: -18, y: 14}
+        - {x: -18, y: -4}
+        - {x: -10, y: -24}
+        - {x: 7, y: -24}
+        - {x: 18, y: -18}
+        - {x: 18, y: 22}
+        - {x: 11, y: 24}
+    - name: megamansprites2_111
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 343
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24}
+        - {x: -18, y: 11}
+        - {x: -18, y: -11}
+        - {x: -13, y: -20}
+        - {x: -7, y: -24}
+        - {x: 10, y: -24}
+        - {x: 18, y: -16}
+        - {x: 18, y: 19}
+        - {x: 11, y: 24}
+    - name: megamansprites2_112
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 344
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 27}
+        - {x: -21.5, y: 14}
+        - {x: -21.5, y: -18}
+        - {x: -15.5, y: -27}
+        - {x: 10.5, y: -27}
+        - {x: 21.5, y: -22}
+        - {x: 21.5, y: 15}
+        - {x: 8.5, y: 27}
+    - name: megamansprites2_113
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_114
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 367
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_115
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 344
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 27}
+        - {x: -21.5, y: 14}
+        - {x: -21.5, y: -18}
+        - {x: -15.5, y: -27}
+        - {x: 10.5, y: -27}
+        - {x: 21.5, y: -22}
+        - {x: 21.5, y: 15}
+        - {x: 8.5, y: 27}
+    - name: megamansprites2_116
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 344
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24}
+        - {x: -18, y: 11}
+        - {x: -18, y: -11}
+        - {x: -13, y: -20}
+        - {x: -7, y: -24}
+        - {x: 10, y: -24}
+        - {x: 18, y: -16}
+        - {x: 18, y: 19}
+        - {x: 11, y: 24}
+    - name: megamansprites2_117
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 344
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 27}
+        - {x: -21.5, y: 14}
+        - {x: -21.5, y: -18}
+        - {x: -15.5, y: -27}
+        - {x: 10.5, y: -27}
+        - {x: 21.5, y: -22}
+        - {x: 21.5, y: 15}
+        - {x: 8.5, y: 27}
+    - name: megamansprites2_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 21.5}
+        - {x: -29.5, y: 6.5}
+        - {x: -29.5, y: -12.5}
+        - {x: -27.5, y: -17.5}
+        - {x: -23.5, y: -21.5}
+        - {x: 29.5, y: -21.5}
+        - {x: 29.5, y: 10.5}
+        - {x: 12.5, y: 21.5}
+    - name: megamansprites2_119
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 296
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_120
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 296
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_121
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 254
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24}
+        - {x: -18, y: 11}
+        - {x: -18, y: -11}
+        - {x: -13, y: -20}
+        - {x: -7, y: -24}
+        - {x: 10, y: -24}
+        - {x: 18, y: -16}
+        - {x: 18, y: 19}
+        - {x: 11, y: 24}
+    - name: megamansprites2_122
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 252
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 26.5}
+        - {x: -19.5, y: 23.5}
+        - {x: -19.5, y: -10.5}
+        - {x: -13.5, y: -26.5}
+        - {x: 19.5, y: -26.5}
+        - {x: 19.5, y: 26.5}
+    - name: megamansprites2_123
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 252
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 28}
+        - {x: -6, y: 28}
+        - {x: -21, y: 15}
+        - {x: -21, y: -18}
+        - {x: -16, y: -28}
+        - {x: 17, y: -28}
+        - {x: 21, y: -19}
+        - {x: 21, y: 19}
+        - {x: 18, y: 27}
+    - name: megamansprites2_124
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 239
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -3.5}
+        - {x: -16, y: -9.5}
+        - {x: -16, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 16, y: -4.5}
+        - {x: 13, y: 21.5}
+        - {x: -7, y: 21.5}
+        - {x: -11, y: 14.5}
+    - name: megamansprites2_125
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 239
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 16}
+        - {x: -11.5, y: 14}
+        - {x: -19.5, y: -1}
+        - {x: -19.5, y: -16}
+        - {x: -6.5, y: -16}
+        - {x: -5.5, y: -14}
+        - {x: -5.5, y: -11}
+        - {x: -5.5, y: -13}
+        - {x: -1.5, y: -16}
+        - {x: 19.5, y: -16}
+        - {x: 19.5, y: 0}
+        - {x: 11.5, y: 16}
+    - name: megamansprites2_126
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 239
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 16}
+        - {x: -11.5, y: 14}
+        - {x: -19.5, y: -1}
+        - {x: -19.5, y: -16}
+        - {x: -6.5, y: -16}
+        - {x: -5.5, y: -14}
+        - {x: -5.5, y: -11}
+        - {x: -5.5, y: -13}
+        - {x: -1.5, y: -16}
+        - {x: 19.5, y: -16}
+        - {x: 19.5, y: 0}
+        - {x: 11.5, y: 16}
+    - name: megamansprites2_127
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 184
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_128
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 184
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_129
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 184
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_130
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 184
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_131
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 184
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_132
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 184
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_133
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 184
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_134
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 184
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_135
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 184
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_136
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 184
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_137
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 22}
+        - {x: -10, y: 22}
+        - {x: -16, y: 16}
+        - {x: -21, y: -13}
+        - {x: -21, y: -22}
+        - {x: 13, y: -22}
+        - {x: 19, y: -18}
+        - {x: 21, y: -12}
+        - {x: 21, y: 19}
+    - name: megamansprites2_138
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 128
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 22.5}
+        - {x: -16, y: 10.5}
+        - {x: -19, y: -11.5}
+        - {x: -19, y: -22.5}
+        - {x: 19, y: -22.5}
+        - {x: 19, y: 21.5}
+        - {x: 18, y: 22.5}
+    - name: megamansprites2_139
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 128
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_140
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 128
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_141
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 128
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_142
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_143
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 128
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_144
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 128
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 22}
+        - {x: -11.5, y: 22}
+        - {x: -14.5, y: 16}
+        - {x: -20.5, y: -14}
+        - {x: -20.5, y: -22}
+        - {x: 19.5, y: -22}
+        - {x: 20.5, y: -20}
+        - {x: 20.5, y: 21}
+        - {x: 19.5, y: 21}
+      - - {x: 17.5, y: -22}
+        - {x: 20.5, y: -22}
+        - {x: 20.5, y: -18}
+        - {x: 17.5, y: -19}
+    - name: megamansprites2_145
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 128
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 23}
+        - {x: -16, y: 15}
+        - {x: -21, y: -13}
+        - {x: -21, y: -23}
+        - {x: 13, y: -23}
+        - {x: 21, y: 1}
+        - {x: 21, y: 23}
+      - - {x: 17, y: -21}
+        - {x: 17, y: -23}
+        - {x: 21, y: -23}
+        - {x: 21, y: -18}
+        - {x: 20, y: -18}
+      - - {x: -21, y: 2}
+        - {x: -18, y: 3}
+        - {x: -18, y: 11}
+        - {x: -20, y: 13}
+        - {x: -21, y: 13}
+    - name: megamansprites2_146
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 128
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_147
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 74
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_148
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 74
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_149
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 74
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_150
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 74
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_151
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 27
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 20}
+        - {x: -16.5, y: -6}
+        - {x: -17.5, y: -11}
+        - {x: -17.5, y: -20}
+        - {x: 17.5, y: -20}
+        - {x: 17.5, y: 13}
+        - {x: 13.5, y: 20}
+    - name: megamansprites2_152
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 27
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 19}
+        - {x: -22.5, y: -4}
+        - {x: -22.5, y: -19}
+        - {x: 21.5, y: -19}
+        - {x: 22.5, y: -16}
+        - {x: 22.5, y: 7}
+        - {x: 14.5, y: 19}
+    - name: megamansprites2_153
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 27
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 20}
+        - {x: -6, y: 13}
+        - {x: -10, y: 7}
+        - {x: -14, y: 0}
+        - {x: -8, y: -4}
+        - {x: -18, y: -16}
+        - {x: -18, y: -20}
+        - {x: 18, y: -20}
+        - {x: 18, y: 18}
+        - {x: 14, y: 20}
+    - name: megamansprites2_154
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 28
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 19.5}
+        - {x: -21.5, y: -3.5}
+        - {x: -21.5, y: -19.5}
+        - {x: 18.5, y: -19.5}
+        - {x: 21.5, y: -6.5}
+        - {x: 21.5, y: 10.5}
+        - {x: 10.5, y: 19.5}
+    - name: megamansprites2_155
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 28
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19.5}
+        - {x: -6, y: 18.5}
+        - {x: -20, y: -11.5}
+        - {x: -20, y: -19.5}
+        - {x: 19, y: -19.5}
+        - {x: 20, y: -17.5}
+        - {x: 20, y: 19.5}
+    - name: megamansprites2_156
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 28
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_157
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 12
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_158
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_159
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 14
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_160
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_161
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 12
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_162
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_163
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 3
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: megamansprites2_164
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

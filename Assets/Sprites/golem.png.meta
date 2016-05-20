@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: 7d392a8158bcff44cbf66a4d1187563c
+timeCreated: 1456427079
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: golem_0
+    21300002: golem_1
+    21300004: golem_2
+    21300006: golem_3
+    21300008: golem_4
+    21300010: golem_5
+    21300012: golem_6
+    21300014: golem_7
+    21300016: golem_8
+    21300018: golem_9
+    21300020: golem_10
+    21300022: golem_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: golem_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 24.5}
+        - {x: -17.5, y: 24.5}
+        - {x: -24.5, y: 4.5}
+        - {x: -24.5, y: -17.5}
+        - {x: -17.5, y: -24.5}
+        - {x: 17.5, y: -24.5}
+        - {x: 22.5, y: -17.5}
+        - {x: 24.5, y: -10.5}
+        - {x: 24.5, y: 10.5}
+    - name: golem_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 17.5}
+        - {x: 17.5, y: 25.5}
+        - {x: -21.5, y: 25.5}
+        - {x: -24.5, y: 12.5}
+        - {x: -24.5, y: -12.5}
+        - {x: -20.5, y: -13.5}
+        - {x: -13.5, y: -13.5}
+        - {x: -10.5, y: -10.5}
+        - {x: -14.5, y: -14.5}
+        - {x: -18.5, y: -14.5}
+        - {x: -21.5, y: -17.5}
+        - {x: -22.5, y: -21.5}
+        - {x: -16.5, y: -25.5}
+        - {x: 14.5, y: -25.5}
+        - {x: 21.5, y: -23.5}
+        - {x: 24.5, y: -15.5}
+    - name: golem_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 3
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 25.5}
+        - {x: -24.5, y: 12.5}
+        - {x: -24.5, y: -21.5}
+        - {x: -21.5, y: -25.5}
+        - {x: 19.5, y: -25.5}
+        - {x: 24.5, y: -20.5}
+        - {x: 24.5, y: 14.5}
+        - {x: 17.5, y: 25.5}
+    - name: golem_3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -26.5}
+        - {x: 12.5, y: -26.5}
+        - {x: 24.5, y: -19.5}
+        - {x: 24.5, y: 23.5}
+        - {x: 23.5, y: 26.5}
+        - {x: -15.5, y: 26.5}
+        - {x: -24.5, y: 3.5}
+        - {x: -24.5, y: -10.5}
+        - {x: -20.5, y: -13.5}
+        - {x: -12.5, y: -13.5}
+        - {x: -12.5, y: -12.5}
+        - {x: -16.5, y: -13.5}
+        - {x: -19.5, y: -16.5}
+        - {x: -18.5, y: -21.5}
+        - {x: -15.5, y: -26.5}
+        - {x: -4.5, y: -26.5}
+        - {x: -4.5, y: -23.5}
+        - {x: -3.5, y: -25.5}
+    - name: golem_4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 25.5}
+        - {x: -24.5, y: 12.5}
+        - {x: -24.5, y: -21.5}
+        - {x: -21.5, y: -25.5}
+        - {x: 19.5, y: -25.5}
+        - {x: 24.5, y: -20.5}
+        - {x: 24.5, y: 14.5}
+        - {x: 17.5, y: 25.5}
+    - name: golem_5
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 3
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 17.5}
+        - {x: 17.5, y: 25.5}
+        - {x: -21.5, y: 25.5}
+        - {x: -24.5, y: 12.5}
+        - {x: -24.5, y: -12.5}
+        - {x: -20.5, y: -13.5}
+        - {x: -13.5, y: -13.5}
+        - {x: -10.5, y: -10.5}
+        - {x: -14.5, y: -14.5}
+        - {x: -18.5, y: -14.5}
+        - {x: -21.5, y: -17.5}
+        - {x: -22.5, y: -21.5}
+        - {x: -16.5, y: -25.5}
+        - {x: 14.5, y: -25.5}
+        - {x: 21.5, y: -23.5}
+        - {x: 24.5, y: -15.5}
+    - name: golem_6
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 5
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 24.5}
+        - {x: -17.5, y: 24.5}
+        - {x: -24.5, y: 4.5}
+        - {x: -24.5, y: -17.5}
+        - {x: -17.5, y: -24.5}
+        - {x: 17.5, y: -24.5}
+        - {x: 22.5, y: -17.5}
+        - {x: 24.5, y: -10.5}
+        - {x: 24.5, y: 10.5}
+    - name: golem_7
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 5
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 24.5}
+        - {x: -20.5, y: 20.5}
+        - {x: -20.5, y: -19.5}
+        - {x: -13.5, y: -24.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 20.5, y: 12.5}
+        - {x: 4.5, y: 24.5}
+    - name: golem_8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 5
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 21}
+        - {x: -25, y: -21}
+        - {x: 25, y: -21}
+        - {x: 25, y: -8}
+        - {x: 20, y: 8}
+        - {x: 2, y: 18}
+        - {x: -8, y: 21}
+    - name: golem_9
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 5
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 24.5}
+        - {x: -20.5, y: 20.5}
+        - {x: -20.5, y: -19.5}
+        - {x: -13.5, y: -24.5}
+        - {x: 20.5, y: -24.5}
+        - {x: 20.5, y: 12.5}
+        - {x: 4.5, y: 24.5}
+    - name: golem_10
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 5
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 24.5}
+        - {x: -24.5, y: 2.5}
+        - {x: -24.5, y: -23.5}
+        - {x: -23.5, y: -24.5}
+        - {x: 21.5, y: -24.5}
+        - {x: 24.5, y: -20.5}
+        - {x: 24.5, y: 7.5}
+        - {x: 16.5, y: 24.5}
+    - name: golem_11
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 5
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 24.5}
+        - {x: -17.5, y: 24.5}
+        - {x: -24.5, y: 4.5}
+        - {x: -24.5, y: -23.5}
+        - {x: -23.5, y: -24.5}
+        - {x: 18.5, y: -24.5}
+        - {x: 22.5, y: -18.5}
+        - {x: 24.5, y: -10.5}
+        - {x: 24.5, y: 10.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

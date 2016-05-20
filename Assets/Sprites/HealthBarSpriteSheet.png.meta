@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: b60a91985f3a5124c82b987555a8cafc
+timeCreated: 1456776954
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HealthBarSpriteSheet_0
+    21300002: HealthBarSpriteSheet_1
+    21300004: HealthBarSpriteSheet_2
+    21300006: HealthBarSpriteSheet_3
+    21300008: HealthBarSpriteSheet_4
+    21300010: HealthBarSpriteSheet_5
+    21300012: HealthBarSpriteSheet_6
+    21300014: HealthBarSpriteSheet_7
+    21300016: HealthBarSpriteSheet_8
+    21300018: HealthBarSpriteSheet_9
+    21300020: HealthBarSpriteSheet_10
+    21300022: HealthBarSpriteSheet_11
+    21300024: HealthBarSpriteSheet_12
+    21300026: HealthBarSpriteSheet_13
+    21300028: HealthBarSpriteSheet_14
+    21300030: HealthBarSpriteSheet_15
+    21300032: HealthBarSpriteSheet_16
+    21300034: HealthBarSpriteSheet_17
+    21300036: HealthBarSpriteSheet_18
+    21300038: HealthBarSpriteSheet_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: HealthBarSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 523
+        width: 369
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150.57257, y: 19.074951}
+        - {x: -150.57257, y: -18.925049}
+        - {x: 151.42743, y: -18.925049}
+        - {x: 151.42743, y: 19.074951}
+      - - {x: -143.57257, y: 12.074951}
+        - {x: 143.42743, y: 12.074951}
+        - {x: 143.42743, y: -10.925049}
+        - {x: -143.57257, y: -10.925049}
+    - name: HealthBarSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 523
+        width: 368
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150.36444, y: 19.074951}
+        - {x: -150.36444, y: -18.925049}
+        - {x: 150.63556, y: -18.925049}
+        - {x: 150.63556, y: 19.074951}
+      - - {x: -114.36444, y: 12.074951}
+        - {x: 143.63556, y: 12.074951}
+        - {x: 143.63556, y: -10.925049}
+        - {x: -114.36444, y: -10.925049}
+    - name: HealthBarSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 522
+        width: 368
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150.25201, y: 19.258362}
+        - {x: -150.25201, y: -18.741638}
+        - {x: 151.74799, y: -18.741638}
+        - {x: 151.74799, y: 19.258362}
+      - - {x: -98.252014, y: 11.258362}
+        - {x: 144.74799, y: 11.258362}
+        - {x: 144.74799, y: -11.741638}
+        - {x: -98.252014, y: -11.741638}
+    - name: HealthBarSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 526
+        width: 368
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150.37317, y: 19.52472}
+        - {x: -150.37317, y: -18.47528}
+        - {x: 151.62683, y: -18.47528}
+        - {x: 151.62683, y: 19.52472}
+      - - {x: -84.37317, y: 12.524719}
+        - {x: 143.62683, y: 12.524719}
+        - {x: 143.62683, y: -11.475281}
+        - {x: -84.37317, y: -11.475281}
+    - name: HealthBarSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 526
+        width: 367
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -149.59253, y: 19.52472}
+        - {x: -149.59253, y: -18.47528}
+        - {x: 151.40747, y: -18.47528}
+        - {x: 151.40747, y: 19.52472}
+      - - {x: -69.59253, y: 12.524719}
+        - {x: 144.40747, y: 12.524719}
+        - {x: 144.40747, y: -11.475281}
+        - {x: -69.59253, y: -11.475281}
+    - name: HealthBarSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 375
+        width: 368
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150.30621, y: 19.220093}
+        - {x: -150.30621, y: -18.779907}
+        - {x: 151.69379, y: -18.779907}
+        - {x: 151.69379, y: 19.220093}
+      - - {x: -54.306213, y: 12.220093}
+        - {x: 144.69379, y: 12.220093}
+        - {x: 144.69379, y: -10.779907}
+        - {x: -54.306213, y: -10.779907}
+    - name: HealthBarSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 375
+        width: 368
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150.1308, y: 19.220093}
+        - {x: -150.1308, y: -18.779907}
+        - {x: 151.8692, y: -18.779907}
+        - {x: 151.8692, y: 19.220093}
+      - - {x: -40.1308, y: 12.220093}
+        - {x: 144.8692, y: 12.220093}
+        - {x: 144.8692, y: -10.779907}
+        - {x: -40.1308, y: -10.779907}
+    - name: HealthBarSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 374
+        width: 368
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150.36761, y: 19.403503}
+        - {x: -150.36761, y: -18.596497}
+        - {x: 150.63239, y: -18.596497}
+        - {x: 150.63239, y: 19.403503}
+      - - {x: -26.367615, y: 12.403503}
+        - {x: 143.63239, y: 12.403503}
+        - {x: 143.63239, y: -11.596497}
+        - {x: -26.367615, y: -11.596497}
+    - name: HealthBarSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 375
+        width: 368
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150.37317, y: 19.220093}
+        - {x: -150.37317, y: -18.779907}
+        - {x: 151.62683, y: -18.779907}
+        - {x: 151.62683, y: 19.220093}
+      - - {x: -10.373169, y: 12.220093}
+        - {x: 143.62683, y: 12.220093}
+        - {x: 143.62683, y: -10.779907}
+        - {x: -10.373169, y: -10.779907}
+    - name: HealthBarSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 375
+        width: 368
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150.26074, y: 19.220093}
+        - {x: -150.26074, y: -18.779907}
+        - {x: 150.73926, y: -18.779907}
+        - {x: 150.73926, y: 19.220093}
+      - - {x: 3.7392578, y: 12.220093}
+        - {x: 143.73926, y: 12.220093}
+        - {x: 143.73926, y: -10.779907}
+        - {x: 3.7392578, y: -10.779907}
+    - name: HealthBarSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 250
+        width: 369
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150.85646, y: 19.146729}
+        - {x: -150.85646, y: -18.853271}
+        - {x: 151.14354, y: -18.853271}
+        - {x: 151.14354, y: 19.146729}
+      - - {x: 18.14354, y: 12.1467285}
+        - {x: 144.14354, y: 12.1467285}
+        - {x: 144.14354, y: -10.8532715}
+        - {x: 18.14354, y: -10.8532715}
+    - name: HealthBarSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 249
+        width: 368
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150.1308, y: 19.33014}
+        - {x: -150.1308, y: -18.66986}
+        - {x: 151.8692, y: -18.66986}
+        - {x: 151.8692, y: 19.33014}
+    - name: HealthBarSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 250
+        width: 368
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150.16669, y: 19.146729}
+        - {x: -150.16669, y: -18.853271}
+        - {x: 150.83331, y: -18.853271}
+        - {x: 150.83331, y: 19.146729}
+    - name: HealthBarSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 250
+        width: 368
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150.28784, y: 19.146729}
+        - {x: -150.28784, y: -18.853271}
+        - {x: 150.71216, y: -18.853271}
+        - {x: 150.71216, y: 19.146729}
+    - name: HealthBarSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 250
+        width: 369
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150.49438, y: 19.146729}
+        - {x: -150.49438, y: -18.853271}
+        - {x: 151.50562, y: -18.853271}
+        - {x: 151.50562, y: 19.146729}
+    - name: HealthBarSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 126
+        width: 368
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150.30621, y: 19.889954}
+        - {x: -150.30621, y: -18.110046}
+        - {x: 151.69379, y: -18.110046}
+        - {x: 151.69379, y: 19.889954}
+    - name: HealthBarSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 124
+        width: 369
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150.48007, y: 19.256775}
+        - {x: -150.48007, y: -18.743225}
+        - {x: 151.51993, y: -18.743225}
+        - {x: 151.51993, y: 19.256775}
+    - name: HealthBarSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 122
+        width: 369
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150.48328, y: 19.623604}
+        - {x: -150.48328, y: -18.376396}
+        - {x: 151.51672, y: -18.376396}
+        - {x: 151.51672, y: 19.623604}
+    - name: HealthBarSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 124
+        width: 368
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150.20251, y: 19.256775}
+        - {x: -150.20251, y: -18.743225}
+        - {x: 151.79749, y: -18.743225}
+        - {x: 151.79749, y: 19.256775}
+    - name: HealthBarSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 119
+        width: 369
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150.52478, y: 19.173843}
+        - {x: -150.52478, y: -18.826157}
+        - {x: 151.47522, y: -18.826157}
+        - {x: 151.47522, y: 19.173843}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

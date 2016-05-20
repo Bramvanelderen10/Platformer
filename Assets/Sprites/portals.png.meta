@@ -1,0 +1,579 @@
+fileFormatVersion: 2
+guid: 9189e19a5d2ba204f85a128a21c16e87
+timeCreated: 1456876685
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: portals_0
+    21300002: portals_1
+    21300004: portals_2
+    21300006: portals_3
+    21300008: portals_4
+    21300010: portals_5
+    21300012: portals_6
+    21300014: portals_7
+    21300016: portals_8
+    21300018: portals_9
+    21300020: portals_10
+    21300022: portals_11
+    21300024: portals_12
+    21300026: portals_13
+    21300028: portals_14
+    21300030: portals_15
+    21300032: portals_16
+    21300034: portals_17
+    21300036: portals_18
+    21300038: portals_19
+    21300040: portals_20
+    21300042: portals_21
+    21300044: portals_22
+    21300046: portals_23
+    21300048: portals_24
+    21300050: portals_25
+    21300052: portals_26
+    21300054: portals_27
+    21300056: portals_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: portals_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 143
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 143
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 143
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 143
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 143
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 143
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 143
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 143
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_8
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 143
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 96
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 96
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 96
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 96
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_13
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 96
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 96
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_15
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 96
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_17
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 96
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 49
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 49
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 49
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_21
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 49
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_22
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 49
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_23
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 49
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_24
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 49
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 49
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_26
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 49
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    - name: portals_28
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 21.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -21.5}
+        - {x: 23, y: -21.5}
+        - {x: 23, y: 15.5}
+        - {x: 20, y: 21.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
